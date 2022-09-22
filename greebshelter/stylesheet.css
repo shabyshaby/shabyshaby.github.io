@@ -1,0 +1,22 @@
+h1 {
+        color : #6827A0; 
+        font-family: Arial Black;
+        text-align: left;
+        font-size: 20px;
+        margin: 5px
+} 
+
+h2 {
+        color : #4F1A73; 
+        font-family: Tahoma;
+        text-align: left;
+        font-size: 18px;
+        margin: 3px
+} 
+
+p {
+        color : #000000; 
+        font-family: Tahoma;
+        text-align: left;
+        font-size: 12px;
+}
